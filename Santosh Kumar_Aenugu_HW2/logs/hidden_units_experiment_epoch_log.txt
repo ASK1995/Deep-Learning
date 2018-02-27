@@ -1,0 +1,10 @@
+#	epoch	training_loss	test_loss	training_error_rate	test_error_rate
+0	nan	nan	0.5	0.5	84.1232831478
+1	nan	nan	0.5	0.5	83.9394710064
+2	nan	nan	0.5	0.5	84.0298359394
+3	nan	nan	0.5	0.5	84.1166000366
+4	nan	nan	0.5	0.5	84.0981009007
+5	nan	nan	0.5	0.5	84.2141470909
+6	nan	nan	0.5	0.5	83.8971409798
+7	nan	nan	0.5	0.5	84.1144061089
+8	nan	nan	0.5	0.5	84.1181530952

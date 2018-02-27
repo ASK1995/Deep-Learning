@@ -1,0 +1,1 @@
+#	epoch	training_loss	test_loss	training_error_rate	test_error_rate
